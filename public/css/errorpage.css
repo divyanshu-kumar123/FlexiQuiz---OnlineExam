@@ -1,0 +1,38 @@
+.top{
+    display: flex;
+    height: 30vh;
+    padding: 17px;
+    contain: layout;
+    }
+    
+    
+    
+    .top img{
+    width: 165px;
+    border-radius: 42px;
+    }
+    
+.oops{
+    padding: 0px 30px  ;
+    
+}
+.oops img{
+    padding: 0px 30px;
+    width: 300px;
+    
+    
+}
+h1{
+    color: #22cfe0;
+
+}
+h2{
+    color: #dfe21d;
+}
+.container{
+    padding:10px 10px;
+}
+body{
+    background-attachment: fixed;
+    background-image: linear-gradient(to right top, #e0007f, #bb3491, #934797, #6e5090, #52527f, #5b5480, #625781, #6a5982, #995b8c, #c95a82, #ec6266, #fa7b3c);
+    }
